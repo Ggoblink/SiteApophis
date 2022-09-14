@@ -7,3 +7,6 @@ formulaire.addEventListener('submit', function(e) {
         e.preventDefault();
     }
 })
+let x = 15
+alerte('Ce site doc est en JavaScript');
+typeof(x);
